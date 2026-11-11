@@ -1,10 +1,346 @@
 [
   {
+    "id": "01-02-voicing",
+    "course": "01",
+    "title": "清音、濁音與半濁音",
+    "category": "文字",
+    "level": "N5",
+    "minutes": 12,
+    "summary": "認識か→が、さ→ざ、は→ば／ぱ的發音差異。",
+    "tags": [
+      "01",
+      "文字"
+    ],
+    "sections": [
+      {
+        "heading": "清音",
+        "body": "か・さ・た・は是沒有濁點的基本假名。"
+      },
+      {
+        "heading": "濁音",
+        "body": "が・ざ・だ・ば是加上濁點「゛」的假名。"
+      },
+      {
+        "heading": "半濁音",
+        "body": "ぱ行是在は行加上半濁點「゜」。"
+      }
+    ],
+    "vocab": [
+      {
+        "jp": "か",
+        "reading": "か",
+        "zh": "ka"
+      },
+      {
+        "jp": "が",
+        "reading": "が",
+        "zh": "ga"
+      },
+      {
+        "jp": "ぱ",
+        "reading": "ぱ",
+        "zh": "pa"
+      }
+    ],
+    "quiz": {
+      "question": "「か」的意思或讀法是？",
+      "options": [
+        "ka",
+        "不相關的意思",
+        "其他意思"
+      ],
+      "answer": 0,
+      "explanation": "か：ka。"
+    },
+    "source": "井上老師 日文01.pdf",
+    "courseLabel": "日文01",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 12
+  },
+  {
+    "id": "01-03-yoon",
+    "course": "01",
+    "title": "拗音：きゃ・しゅ・ちょ",
+    "category": "文字",
+    "level": "N5",
+    "minutes": 12,
+    "summary": "小寫ゃ・ゅ・ょ和前一個假名組成一拍。",
+    "tags": [
+      "01",
+      "文字"
+    ],
+    "sections": [
+      {
+        "heading": "拗音組合",
+        "body": "きゃ・きゅ・きょ、しゃ・しゅ・しょ、ちゃ・ちゅ・ちょ。"
+      },
+      {
+        "heading": "閱讀技巧",
+        "body": "注意小寫假名和一般大小假名的差別。"
+      }
+    ],
+    "vocab": [
+      {
+        "jp": "きゃ",
+        "reading": "きゃ",
+        "zh": "kya"
+      },
+      {
+        "jp": "しゅ",
+        "reading": "しゅ",
+        "zh": "shu"
+      },
+      {
+        "jp": "ちょ",
+        "reading": "ちょ",
+        "zh": "cho"
+      }
+    ],
+    "quiz": {
+      "question": "「きゃ」的意思或讀法是？",
+      "options": [
+        "kya",
+        "不相關的意思",
+        "其他意思"
+      ],
+      "answer": 0,
+      "explanation": "きゃ：kya。"
+    },
+    "source": "井上老師 日文01.pdf",
+    "courseLabel": "日文01",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 12
+  },
+  {
+    "id": "01-04-katakana",
+    "course": "01",
+    "title": "片假名：ア・イ・ウ・エ・オ",
+    "category": "文字",
+    "level": "N5",
+    "minutes": 12,
+    "summary": "認識片假名與外來語常見寫法。",
+    "tags": [
+      "01",
+      "文字"
+    ],
+    "sections": [
+      {
+        "heading": "片假名",
+        "body": "ア・イ・ウ・エ・オ分別對應あ・い・う・え・お。"
+      },
+      {
+        "heading": "常見單字",
+        "body": "スーパー（超市）、タクシー（計程車）。"
+      }
+    ],
+    "vocab": [
+      {
+        "jp": "スーパー",
+        "reading": "スーパー",
+        "zh": "超市"
+      },
+      {
+        "jp": "タクシー",
+        "reading": "タクシー",
+        "zh": "計程車"
+      },
+      {
+        "jp": "カード",
+        "reading": "カード",
+        "zh": "卡片"
+      }
+    ],
+    "quiz": {
+      "question": "「スーパー」的意思或讀法是？",
+      "options": [
+        "超市",
+        "不相關的意思",
+        "其他意思"
+      ],
+      "answer": 0,
+      "explanation": "スーパー：超市。"
+    },
+    "source": "井上老師 日文01.pdf",
+    "courseLabel": "日文01",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 12
+  },
+  {
+    "id": "01-05-sokuon",
+    "course": "01",
+    "title": "促音：小っ・ッ",
+    "category": "文字",
+    "level": "N5",
+    "minutes": 12,
+    "summary": "練習きっぷ、ざっし、にっき等帶有促音的詞。",
+    "tags": [
+      "01",
+      "文字"
+    ],
+    "sections": [
+      {
+        "heading": "發音重點",
+        "body": "小っ／ッ佔一拍，後面的子音會短暫停頓。"
+      },
+      {
+        "heading": "講義單字",
+        "body": "きっぷ（車票）、ざっし（雜誌）、にっき（日記）、コップ（杯子）、ベッド（床）。"
+      }
+    ],
+    "vocab": [
+      {
+        "jp": "きっぷ",
+        "reading": "きっぷ",
+        "zh": "車票"
+      },
+      {
+        "jp": "ざっし",
+        "reading": "ざっし",
+        "zh": "雜誌"
+      },
+      {
+        "jp": "にっき",
+        "reading": "にっき",
+        "zh": "日記"
+      }
+    ],
+    "quiz": {
+      "question": "「きっぷ」的意思或讀法是？",
+      "options": [
+        "車票",
+        "不相關的意思",
+        "其他意思"
+      ],
+      "answer": 0,
+      "explanation": "きっぷ：車票。"
+    },
+    "source": "井上老師 日文01.pdf",
+    "courseLabel": "日文01",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 12
+  },
+  {
+    "id": "01-06-long",
+    "course": "01",
+    "title": "長音：おかあさん・せんせい",
+    "category": "文字",
+    "level": "N5",
+    "minutes": 12,
+    "summary": "掌握長音的拼寫與發音節奏。",
+    "tags": [
+      "01",
+      "文字"
+    ],
+    "sections": [
+      {
+        "heading": "平假名長音",
+        "body": "おかあさん、ゆうき、ひこうき、せんせい。"
+      },
+      {
+        "heading": "片假名長音",
+        "body": "スーパー、タクシー使用長音符號「ー」。"
+      },
+      {
+        "heading": "提醒",
+        "body": "講義的「おかーさん」等是輔助發音的寫法，正式拼寫仍是おかあさん。"
+      }
+    ],
+    "vocab": [
+      {
+        "jp": "おかあさん",
+        "reading": "おかあさん",
+        "zh": "媽媽"
+      },
+      {
+        "jp": "せんせい",
+        "reading": "せんせい",
+        "zh": "老師"
+      },
+      {
+        "jp": "ひこうき",
+        "reading": "ひこうき",
+        "zh": "飛機"
+      }
+    ],
+    "quiz": {
+      "question": "「おかあさん」的意思或讀法是？",
+      "options": [
+        "媽媽",
+        "不相關的意思",
+        "其他意思"
+      ],
+      "answer": 0,
+      "explanation": "おかあさん：媽媽。"
+    },
+    "source": "井上老師 日文01.pdf",
+    "courseLabel": "日文01",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 12
+  },
+  {
+    "id": "01-07-pitch",
+    "course": "01",
+    "title": "重音與五十音單字練習",
+    "category": "文字",
+    "level": "N5",
+    "minutes": 12,
+    "summary": "利用講義的天氣、雞蛋、日本、蘋果等單字熟悉節奏。",
+    "tags": [
+      "01",
+      "文字"
+    ],
+    "sections": [
+      {
+        "heading": "重音練習",
+        "body": "講義依重音位置列出てんき、ほん、カード、たまご、にほん、りんご、さけ。"
+      },
+      {
+        "heading": "單字朗讀",
+        "body": "練習あめ、いるか、うさぎ、えび、ねこ、やま等。"
+      },
+      {
+        "heading": "提醒",
+        "body": "日語高低音與中文四聲不同，建議搭配真人示範確認。"
+      }
+    ],
+    "vocab": [
+      {
+        "jp": "てんき",
+        "reading": "てんき",
+        "zh": "天氣"
+      },
+      {
+        "jp": "たまご",
+        "reading": "たまご",
+        "zh": "雞蛋"
+      },
+      {
+        "jp": "りんご",
+        "reading": "りんご",
+        "zh": "蘋果"
+      }
+    ],
+    "quiz": {
+      "question": "「てんき」的意思或讀法是？",
+      "options": [
+        "天氣",
+        "不相關的意思",
+        "其他意思"
+      ],
+      "answer": 0,
+      "explanation": "てんき：天氣。"
+    },
+    "source": "井上老師 日文01.pdf",
+    "courseLabel": "日文01",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 12
+  },
+  {
     "id": "hiragana-basics",
     "title": "五十音入門：平假名",
     "category": "文字",
     "level": "N5",
-    "minutes": 8,
+    "minutes": 10,
     "summary": "從あ行到お行，認識日文的基本發音與書寫。",
     "tags": [
       "五十音",
@@ -50,115 +386,19 @@
       ],
       "answer": 0,
       "explanation": "うみ（海）是海的意思。"
-    }
-  },
-  {
-    "id": "greetings",
-    "title": "每天都用得到的日文招呼語",
-    "category": "會話",
-    "level": "N5",
-    "minutes": 6,
-    "summary": "學會早安、你好、晚安與道謝，開口說日文。",
-    "tags": [
-      "招呼",
-      "生活會話"
-    ],
-    "sections": [
-      {
-        "heading": "依時間打招呼",
-        "body": "早上常說「おはようございます」，白天常說「こんにちは」，晚上見面說「こんばんは」。"
-      },
-      {
-        "heading": "禮貌表達",
-        "body": "「ありがとうございます」是較禮貌的謝謝；熟人間也常說「ありがとう」。"
-      },
-      {
-        "heading": "使用情境",
-        "body": "與老師或不熟悉的人說話時，優先使用較禮貌的表達。"
-      }
-    ],
-    "vocab": [
-      {
-        "jp": "おはようございます",
-        "reading": "おはようございます",
-        "zh": "早安（禮貌）"
-      },
-      {
-        "jp": "こんにちは",
-        "reading": "こんにちは",
-        "zh": "你好／午安"
-      },
-      {
-        "jp": "ありがとうございます",
-        "reading": "ありがとうございます",
-        "zh": "非常謝謝您"
-      }
-    ],
-    "quiz": {
-      "question": "晚上見面打招呼通常說什麼？",
-      "options": [
-        "おやすみなさい",
-        "こんばんは",
-        "さようなら"
-      ],
-      "answer": 1,
-      "explanation": "こんばんは是晚上的見面招呼；おやすみなさい通常是睡前道晚安。"
-    }
-  },
-  {
-    "id": "particles-wa-ga",
-    "title": "助詞 は 與 が 的基本差異",
-    "category": "文法",
-    "level": "N5",
-    "minutes": 10,
-    "summary": "透過簡單例句理解主題與主語的不同。",
-    "tags": [
-      "助詞",
-      "基礎文法"
-    ],
-    "sections": [
-      {
-        "heading": "は：提示主題",
-        "body": "「私は学生です。」表示「至於我，我是學生」。助詞「は」在此讀作 wa。"
-      },
-      {
-        "heading": "が：標示主語",
-        "body": "「猫がいます。」表示「有貓」。在回答「誰？」或引入新資訊時，也常使用 が。"
-      },
-      {
-        "heading": "注意",
-        "body": "は 與 が 的選擇涉及語境、焦點與已知資訊，這裡是初學者的簡化說明，不代表所有情況都能直接互換。"
-      }
-    ],
-    "vocab": [
-      {
-        "jp": "私は学生です。",
-        "reading": "わたしは がくせいです。",
-        "zh": "我是學生。"
-      },
-      {
-        "jp": "猫がいます。",
-        "reading": "ねこが います。",
-        "zh": "有貓。"
-      }
-    ],
-    "quiz": {
-      "question": "「私は学生です」的「は」讀音是？",
-      "options": [
-        "ha",
-        "wa",
-        "ga"
-      ],
-      "answer": 1,
-      "explanation": "作為助詞時，「は」讀作 wa。"
-    }
+    },
+    "course": "01",
+    "source": "井上老師 日文01.pdf",
+    "courseLabel": "日文01",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "numbers-1-10",
     "title": "日文數字 1～10",
     "category": "單字",
     "level": "N5",
-    "minutes": 5,
+    "minutes": 10,
     "summary": "記住常見數字讀法，為購物與日期打好基礎。",
     "tags": [
       "數字",
@@ -204,14 +444,251 @@
       ],
       "answer": 0,
       "explanation": "八讀作 はち。"
-    }
+    },
+    "course": "01",
+    "source": "井上老師 日文01.pdf",
+    "courseLabel": "日文01",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
+  },
+  {
+    "id": "02-02-polite",
+    "course": "02",
+    "title": "禮貌表達：感謝、道歉與請託",
+    "category": "會話",
+    "level": "N5",
+    "minutes": 12,
+    "summary": "把謝謝、對不起、請多指教放進生活情境。",
+    "tags": [
+      "02",
+      "會話"
+    ],
+    "sections": [
+      {
+        "heading": "感謝",
+        "body": "ありがとうございます：謝謝（較禮貌）。"
+      },
+      {
+        "heading": "道歉與提醒",
+        "body": "すみません：不好意思、對不起，也可用於引起注意。"
+      },
+      {
+        "heading": "請託",
+        "body": "よろしくおねがいします：請多指教；おねがいします：麻煩您。"
+      }
+    ],
+    "vocab": [
+      {
+        "jp": "ありがとうございます",
+        "reading": "ありがとうございます",
+        "zh": "謝謝"
+      },
+      {
+        "jp": "すみません",
+        "reading": "すみません",
+        "zh": "不好意思"
+      },
+      {
+        "jp": "おねがいします",
+        "reading": "おねがいします",
+        "zh": "麻煩您"
+      }
+    ],
+    "quiz": {
+      "question": "「ありがとうございます」的意思或讀法是？",
+      "options": [
+        "謝謝",
+        "不相關的意思",
+        "其他意思"
+      ],
+      "answer": 0,
+      "explanation": "ありがとうございます：謝謝。"
+    },
+    "source": "問候語02.pdf",
+    "courseLabel": "日文02",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 12
+  },
+  {
+    "id": "02-03-life",
+    "course": "02",
+    "title": "生活會話：出門、回家與用餐",
+    "category": "會話",
+    "level": "N5",
+    "minutes": 12,
+    "summary": "練習日常情境中成對出現的招呼語。",
+    "tags": [
+      "02",
+      "會話"
+    ],
+    "sections": [
+      {
+        "heading": "出門",
+        "body": "いってきます（我出門了）／いってらっしゃい（慢走）。"
+      },
+      {
+        "heading": "回家",
+        "body": "ただいま（我回來了）／おかえりなさい（歡迎回來）。"
+      },
+      {
+        "heading": "用餐",
+        "body": "いただきます（開動前）／ごちそうさまでした（餐後）。"
+      }
+    ],
+    "vocab": [
+      {
+        "jp": "いってきます",
+        "reading": "いってきます",
+        "zh": "我要出門了"
+      },
+      {
+        "jp": "ただいま",
+        "reading": "ただいま",
+        "zh": "我回來了"
+      },
+      {
+        "jp": "いただきます",
+        "reading": "いただきます",
+        "zh": "開動前的感謝"
+      }
+    ],
+    "quiz": {
+      "question": "「いってきます」的意思或讀法是？",
+      "options": [
+        "我要出門了",
+        "不相關的意思",
+        "其他意思"
+      ],
+      "answer": 0,
+      "explanation": "いってきます：我要出門了。"
+    },
+    "source": "問候語02.pdf",
+    "courseLabel": "日文02",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 12
+  },
+  {
+    "id": "02-04-social",
+    "course": "02",
+    "title": "社交問候：初次見面與關心",
+    "category": "會話",
+    "level": "N5",
+    "minutes": 12,
+    "summary": "練習好久不見、最近好嗎、辛苦了等用語。",
+    "tags": [
+      "02",
+      "會話"
+    ],
+    "sections": [
+      {
+        "heading": "初次見面",
+        "body": "はじめまして：初次見面。"
+      },
+      {
+        "heading": "久別重逢",
+        "body": "おひさしぶりです：好久不見。おげんきですか：你好嗎？"
+      },
+      {
+        "heading": "關心與祝賀",
+        "body": "おだいじに：請保重；おめでとうございます：恭喜；おつかれさまです：辛苦了。"
+      }
+    ],
+    "vocab": [
+      {
+        "jp": "はじめまして",
+        "reading": "はじめまして",
+        "zh": "初次見面"
+      },
+      {
+        "jp": "おげんきですか",
+        "reading": "おげんきですか",
+        "zh": "你好嗎"
+      },
+      {
+        "jp": "おだいじに",
+        "reading": "おだいじに",
+        "zh": "請保重"
+      }
+    ],
+    "quiz": {
+      "question": "「はじめまして」的意思或讀法是？",
+      "options": [
+        "初次見面",
+        "不相關的意思",
+        "其他意思"
+      ],
+      "answer": 0,
+      "explanation": "はじめまして：初次見面。"
+    },
+    "source": "問候語02.pdf",
+    "courseLabel": "日文02",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 12
+  },
+  {
+    "id": "greetings",
+    "title": "每天都用得到的日文招呼語",
+    "category": "會話",
+    "level": "N5",
+    "minutes": 10,
+    "summary": "學會早安、你好、晚安與道謝，開口說日文。",
+    "tags": [
+      "招呼",
+      "生活會話"
+    ],
+    "sections": [
+      {
+        "heading": "依時間打招呼",
+        "body": "早上常說「おはようございます」，白天常說「こんにちは」，晚上見面說「こんばんは」。"
+      },
+      {
+        "heading": "禮貌表達",
+        "body": "「ありがとうございます」是較禮貌的謝謝；熟人間也常說「ありがとう」。"
+      },
+      {
+        "heading": "使用情境",
+        "body": "與老師或不熟悉的人說話時，優先使用較禮貌的表達。"
+      }
+    ],
+    "vocab": [
+      {
+        "jp": "おはようございます",
+        "reading": "おはようございます",
+        "zh": "早安（禮貌）"
+      },
+      {
+        "jp": "こんにちは",
+        "reading": "こんにちは",
+        "zh": "你好／午安"
+      },
+      {
+        "jp": "ありがとうございます",
+        "reading": "ありがとうございます",
+        "zh": "非常謝謝您"
+      }
+    ],
+    "quiz": {
+      "question": "晚上見面打招呼通常說什麼？",
+      "options": [
+        "おやすみなさい",
+        "こんばんは",
+        "さようなら"
+      ],
+      "answer": 1,
+      "explanation": "こんばんは是晚上的見面招呼；おやすみなさい通常是睡前道晚安。"
+    },
+    "course": "02",
+    "source": "問候語02.pdf",
+    "courseLabel": "日文02",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "03-01-basic",
     "title": "日文03｜基本句型：です、ではありません、ですか、も",
     "category": "文法",
     "level": "N5",
-    "minutes": 8,
+    "minutes": 10,
     "summary": "學習肯定、否定、疑問及「也」的表達",
     "tags": [
       "日文03",
@@ -257,14 +734,19 @@
       ],
       "answer": 0,
       "explanation": "「も」表示「也」。"
-    }
+    },
+    "course": "03",
+    "source": "井上老師 日文03基礎文法.pdf",
+    "courseLabel": "日文03",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "03-02-demonstratives",
     "title": "日文03｜指示代名詞：これ・それ・あれ",
     "category": "文法",
     "level": "N5",
-    "minutes": 8,
+    "minutes": 10,
     "summary": "認識物品、地點及名詞前的指示詞",
     "tags": [
       "日文03",
@@ -310,14 +792,19 @@
       ],
       "answer": 1,
       "explanation": "この必須接名詞；これ可以獨立使用。"
-    }
+    },
+    "course": "03",
+    "source": "井上老師 日文03基礎文法.pdf",
+    "courseLabel": "日文03",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "03-03-questions",
     "title": "日文03｜常見疑問詞：どこ・だれ・いつ・いくら",
     "category": "文法",
     "level": "N5",
-    "minutes": 8,
+    "minutes": 10,
     "summary": "用日文詢問人、時間、價格及方法",
     "tags": [
       "日文03",
@@ -363,14 +850,19 @@
       ],
       "answer": 1,
       "explanation": "いくら用來詢問價格。"
-    }
+    },
+    "course": "03",
+    "source": "井上老師 日文03基礎文法.pdf",
+    "courseLabel": "日文03",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "03-04-adjectives",
     "title": "日文03｜い形容詞與な形容詞：修飾及時態",
     "category": "文法",
     "level": "N5",
-    "minutes": 8,
+    "minutes": 10,
     "summary": "學習形容詞類別、修飾名詞與四種變化",
     "tags": [
       "日文03",
@@ -420,14 +912,19 @@
       ],
       "answer": 1,
       "explanation": "な形容詞修飾名詞時加「な」。"
-    }
+    },
+    "course": "03",
+    "source": "井上老師 日文03基礎文法.pdf",
+    "courseLabel": "日文03",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "03-05-verbs",
     "title": "日文03｜基本動詞、助詞與ます形時態",
     "category": "文法",
     "level": "N5",
-    "minutes": 8,
+    "minutes": 10,
     "summary": "熟悉生活動詞和現在、過去、否定",
     "tags": [
       "日文03",
@@ -473,14 +970,19 @@
       ],
       "answer": 1,
       "explanation": "過去肯定使用「ました」。"
-    }
+    },
+    "course": "03",
+    "source": "井上老師 日文03基礎文法.pdf",
+    "courseLabel": "日文03",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "03-06-existence",
     "title": "日文03｜います・あります：存在句",
     "category": "文法",
     "level": "N5",
-    "minutes": 8,
+    "minutes": 10,
     "summary": "分辨人、動物與物品的存在表達",
     "tags": [
       "日文03",
@@ -526,14 +1028,19 @@
       ],
       "answer": 1,
       "explanation": "杯子屬物品，使用「あります」。"
-    }
+    },
+    "course": "03",
+    "source": "井上老師 日文03基礎文法.pdf",
+    "courseLabel": "日文03",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "03-07-preferences",
     "title": "日文03｜好き・嫌い・得意・苦手・上手・下手",
     "category": "文法",
     "level": "N5",
-    "minutes": 8,
+    "minutes": 10,
     "summary": "學會表達喜好、擅長與不擅長",
     "tags": [
       "日文03",
@@ -579,14 +1086,19 @@
       ],
       "answer": 0,
       "explanation": "苦手表示不擅長或不拿手。"
-    }
+    },
+    "course": "03",
+    "source": "井上老師 日文03基礎文法.pdf",
+    "courseLabel": "日文03",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "03-08-giving",
     "title": "日文03｜あげます・もらいます・くれます",
     "category": "文法",
     "level": "N5",
-    "minutes": 8,
+    "minutes": 10,
     "summary": "理解贈送與收取的不同視角",
     "tags": [
       "日文03",
@@ -632,14 +1144,19 @@
       ],
       "answer": 1,
       "explanation": "從別人收到東西使用「もらいます」。"
-    }
+    },
+    "course": "03",
+    "source": "井上老師 日文03基礎文法.pdf",
+    "courseLabel": "日文03",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "03-09-borrow",
     "title": "日文03｜貸します・借ります・教えます・習います",
     "category": "文法",
     "level": "N5",
-    "minutes": 8,
+    "minutes": 10,
     "summary": "辨認借出、借入、教導與學習",
     "tags": [
       "日文03",
@@ -685,14 +1202,81 @@
       ],
       "answer": 1,
       "explanation": "向別人學習使用「習います」。"
-    }
+    },
+    "course": "03",
+    "source": "井上老師 日文03基礎文法.pdf",
+    "courseLabel": "日文03",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
+  },
+  {
+    "id": "04-00-groups",
+    "course": "04",
+    "title": "動詞三類分類：ます形辨識",
+    "category": "文法",
+    "level": "N5",
+    "minutes": 12,
+    "summary": "先分辨第一類、第二類與第三類動詞，再學ます形延伸。",
+    "tags": [
+      "04",
+      "文法"
+    ],
+    "sections": [
+      {
+        "heading": "第一類",
+        "body": "例如書きます（かきます）、飲みます（のみます）、遊びます（あそびます）。"
+      },
+      {
+        "heading": "第二類",
+        "body": "例如食べます（たべます）、寝ます（ねます）、見ます（みます）。部分動詞不符合單純的母音判斷法。"
+      },
+      {
+        "heading": "第三類",
+        "body": "します、来ます（きます）。"
+      },
+      {
+        "heading": "提醒",
+        "body": "分類時要注意例外，不要只看ます前的母音。"
+      }
+    ],
+    "vocab": [
+      {
+        "jp": "書きます",
+        "reading": "かきます",
+        "zh": "寫"
+      },
+      {
+        "jp": "食べます",
+        "reading": "たべます",
+        "zh": "吃"
+      },
+      {
+        "jp": "来ます",
+        "reading": "きます",
+        "zh": "來"
+      }
+    ],
+    "quiz": {
+      "question": "「書きます」的意思或讀法是？",
+      "options": [
+        "寫",
+        "不相關的意思",
+        "其他意思"
+      ],
+      "answer": 0,
+      "explanation": "書きます：寫。"
+    },
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 12
   },
   {
     "id": "04-01-tai",
     "title": "日文04｜ます形＋たい：想做某事",
     "category": "文法",
     "level": "N5",
-    "minutes": 6,
+    "minutes": 10,
     "summary": "去掉ます，加たい；否定為たくない。",
     "tags": [
       "日文04",
@@ -739,14 +1323,19 @@
       ],
       "answer": 0,
       "explanation": "正確接續：飲みます → 飲みたい。"
-    }
+    },
+    "course": "04",
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "04-02-nagara",
     "title": "日文04｜ます形＋ながら：一邊…一邊…",
     "category": "文法",
     "level": "N5",
-    "minutes": 6,
+    "minutes": 10,
     "summary": "去掉ます，加ながら；表示兩個動作同時進行。",
     "tags": [
       "日文04",
@@ -793,14 +1382,19 @@
       ],
       "answer": 1,
       "explanation": "正確接續：弾きます → 弾きながら。"
-    }
+    },
+    "course": "04",
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "04-03-ease",
     "title": "日文04｜ます形＋やすい／にくい：容易與困難",
     "category": "文法",
     "level": "N5",
-    "minutes": 6,
+    "minutes": 10,
     "summary": "去掉ます，加やすい表示容易做；加にくい表示難以做。",
     "tags": [
       "日文04",
@@ -847,14 +1441,19 @@
       ],
       "answer": 1,
       "explanation": "正確接續：使います → 使いにくい。"
-    }
+    },
+    "course": "04",
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "04-04-kata",
     "title": "日文04｜ます形＋方：做某事的方法",
     "category": "文法",
     "level": "N5",
-    "minutes": 6,
+    "minutes": 10,
     "summary": "去掉ます，加方（かた）表示做法、使用方法。",
     "tags": [
       "日文04",
@@ -901,14 +1500,19 @@
       ],
       "answer": 2,
       "explanation": "正確接續：行きます → 行き方。"
-    }
+    },
+    "course": "04",
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "04-05-start",
     "title": "日文04｜ます形＋始めます：開始做",
     "category": "文法",
     "level": "N5",
-    "minutes": 6,
+    "minutes": 10,
     "summary": "去掉ます，加始めます，表示動作開始。",
     "tags": [
       "日文04",
@@ -955,14 +1559,19 @@
       ],
       "answer": 0,
       "explanation": "正確接續：読みます → 読み始めます。"
-    }
+    },
+    "course": "04",
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "04-06-finish",
     "title": "日文04｜ます形＋終わります：做完",
     "category": "文法",
     "level": "N5",
-    "minutes": 6,
+    "minutes": 10,
     "summary": "去掉ます，加終わります，表示動作完成。",
     "tags": [
       "日文04",
@@ -1009,14 +1618,19 @@
       ],
       "answer": 0,
       "explanation": "正確接續：読みます → 読み終わります。"
-    }
+    },
+    "course": "04",
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "04-07-continue",
     "title": "日文04｜ます形＋続けます：持續做",
     "category": "文法",
     "level": "N5",
-    "minutes": 6,
+    "minutes": 10,
     "summary": "去掉ます，加続けます，表示持續進行。",
     "tags": [
       "日文04",
@@ -1063,14 +1677,19 @@
       ],
       "answer": 1,
       "explanation": "正確接續：使います → 使い続けます。"
-    }
+    },
+    "course": "04",
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "04-08-dasu",
     "title": "日文04｜ます形＋出します：突然開始",
     "category": "文法",
     "level": "N5",
-    "minutes": 6,
+    "minutes": 10,
     "summary": "去掉ます，加出します，表示突然開始某個動作。",
     "tags": [
       "日文04",
@@ -1117,14 +1736,19 @@
       ],
       "answer": 1,
       "explanation": "正確接續：鳴ります → 鳴り出します。"
-    }
+    },
+    "course": "04",
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "04-09-purpose",
     "title": "日文04｜ます形＋に行きます：去做某事",
     "category": "文法",
     "level": "N5",
-    "minutes": 6,
+    "minutes": 10,
     "summary": "去掉ます，加に行きます，表示移動的目的。",
     "tags": [
       "日文04",
@@ -1171,14 +1795,19 @@
       ],
       "answer": 0,
       "explanation": "正確接續：借ります → 借りに行きます。"
-    }
+    },
+    "course": "04",
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "04-10-invite",
     "title": "日文04｜ます形＋ませんか：邀請",
     "category": "文法",
     "level": "N5",
-    "minutes": 6,
+    "minutes": 10,
     "summary": "去掉ます，加ませんか，以禮貌語氣邀請對方。",
     "tags": [
       "日文04",
@@ -1225,14 +1854,19 @@
       ],
       "answer": 1,
       "explanation": "正確接續：見ます → 見ませんか。"
-    }
+    },
+    "course": "04",
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "04-11-lets",
     "title": "日文04｜ます形＋ましょう：一起做吧",
     "category": "文法",
     "level": "N5",
-    "minutes": 6,
+    "minutes": 10,
     "summary": "去掉ます，加ましょう，表達提議一起做。",
     "tags": [
       "日文04",
@@ -1279,14 +1913,19 @@
       ],
       "answer": 0,
       "explanation": "正確接續：帰ります → 帰りましょう。"
-    }
+    },
+    "course": "04",
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   },
   {
     "id": "04-12-offer",
     "title": "日文04｜ます形＋ましょうか：主動提議幫忙",
     "category": "文法",
     "level": "N5",
-    "minutes": 6,
+    "minutes": 10,
     "summary": "去掉ます，加ましょうか，表示提出協助或徵詢是否要做。",
     "tags": [
       "日文04",
@@ -1333,6 +1972,11 @@
       ],
       "answer": 2,
       "explanation": "正確接續：撮ります → 撮りましょうか。"
-    }
+    },
+    "course": "04",
+    "source": "日文04.pdf",
+    "courseLabel": "日文04",
+    "sourcePages": "依原講義主題整理",
+    "reviewMinutes": 10
   }
 ]

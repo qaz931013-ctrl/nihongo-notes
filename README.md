@@ -1,38 +1,26 @@
 # ことば日和｜日文學習筆記
 
-以繁體中文為主的日文初學者學習網站，包含五十音、單字、文法與會話筆記。每篇筆記都有概念說明、互動單字卡和三選一測驗。
+以繁體中文整理日文講義重點，分成日文01～04四個單元，提供搜尋、單字卡、測驗與每天10～20分鐘的複習安排。
 
-## 特色
-- 日系簡約、響應式版型
-- 筆記分類與即時搜尋
-- 可翻面的單字卡、即時批改的小測驗
-- 內容統一存放在 `data/lessons.json`，新增課程不必修改 HTML
-- `AGENTS.md` 定義完整的 AI 協作規則，`docs/NEW_LESSON.md` 提供新增範本
+## 網站
+部署後：https://qaz931013-ctrl.github.io/nihongo-notes/
 
-## 本機預覽
-需要 Python 3，進入專案根目錄後執行：
+## 內容來源
+- 《井上老師 日文01》：五十音、清濁音、拗音、片假名、促音、長音與單字。
+- 《問候語02》：24項基本問候與生活用語。
+- 《井上老師 日文03基礎文法》：基本句型、指示詞、疑問詞、形容詞、基本動詞、授受等。
+- 《日文04》：動詞分類及12種ます形延伸用法。
 
-```bash
-python3 -m http.server 8000
-```
+**著作權提醒：** 網站為學習摘要及自製練習，不附原講義全文。公開分享前請確認原講義的來源、授權及必要的出處資訊。
 
-瀏覽器開啟 http://localhost:8000/ 。請勿直接雙擊 `index.html`，因為 `file://` 可能阻擋 JSON 讀取。
-
-## GitHub Pages 部署
-1. 在 GitHub 建立 **Public** repository，建議名稱 `nihongo-notes`。
-2. 上傳**專案資料夾內**的所有檔案與資料夾，確保 `index.html` 與 `AGENTS.md` 位於 repository 根目錄。
-3. 開啟 repository 的 **Settings → Pages**。
-4. 在 **Build and deployment** 中選 **Deploy from a branch**，Branch 選 **main**，資料夾選 **/(root)**，按 **Save**。
-5. 等待 GitHub Pages 部署完成後，開啟 `https://你的帳號.github.io/nihongo-notes/`。
-6. 以手機及電腦檢查筆記、搜尋、單字卡、測驗是否正常。
-
-> 網站中導覽列的 GitHub 連結目前指向 GitHub 首頁。取得 repository 網址後，可將 `index.html` 裡的 `https://github.com` 換成你的實際 repository 連結。
-
-## 如何持續擴充
-請先閱讀 [AGENTS.md](AGENTS.md) 與 [新增筆記指南](docs/NEW_LESSON.md)。新增一篇課程時，依規格在 `data/lessons.json` 新增一筆物件，首頁會自動呈現，不需另寫頁面。
+## 使用與部署
+1. 將本專案**整個資料夾內的內容**上傳到 GitHub 儲存庫 `nihongo-notes` 根目錄（包含 `assets/`、`data/`、`docs/` 與 `index.html`）。
+2. GitHub → Settings → Pages → Build and deployment → Deploy from a branch → `main` / `(root)` → Save。
+3. 等候部署後重新整理網站（必要時 Ctrl+F5）。
+4. 日後新增內容，先讀 `AGENTS.md` 與 `docs/NEW_LESSON.md`，比對重複後再修改 `data/lessons.json`。
 
 ## 技術
-HTML、CSS、JavaScript、JSON；無後端、無資料庫、無建置流程。可直接使用 GitHub Pages。
+純 HTML/CSS/JavaScript + JSON，不需安裝套件；為避免 `file://` 限制，請用本機 HTTP 伺服器預覽：`python -m http.server 8000`。
 
-## 聲明
-本站是個人整理的入門學習筆記，並非 JLPT 官方教材。
+## 設計規則
+參見 [AGENTS.md](AGENTS.md)。
